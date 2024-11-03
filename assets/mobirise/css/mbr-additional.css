@@ -1452,7 +1452,7 @@ a {
 }
 .cid-tMlEXTHLbS .item-wrapper {
   position: relative;
-  background: #ffffff;
+  background: #783ab2;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1466,6 +1466,7 @@ a {
 }
 .cid-tMlEXTHLbS .item-title {
   text-align: left;
+  color: #ffffff;
 }
 .cid-tMlEXTHLbS .item-subtitle {
   text-align: left;
@@ -1473,6 +1474,7 @@ a {
 .cid-tMlEXTHLbS .mbr-text,
 .cid-tMlEXTHLbS .item .mbr-section-btn {
   text-align: left;
+  color: #ffffff;
 }
 .cid-tMlEXTHLbS .content-head {
   max-width: 800px;
